@@ -1,0 +1,3 @@
+ssh ies2018-2019_p11@xcoa.av.it.pt
+
+pass: passdoserver

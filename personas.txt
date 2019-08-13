@@ -1,0 +1,3 @@
+Persona 1:
+(Pai de familia, gosto pela tecnologia)
+(Tipos de interações: verificar quais as luzes acesas, verificar a temperatura, mudar o estado das lâmpadas inteligentes, criar agendamentos)
